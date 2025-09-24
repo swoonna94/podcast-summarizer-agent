@@ -42,12 +42,12 @@ This agent uses a coordinator-sub-agent architecture:
 3.  **Configuration**
 
     *   Set up Google API credentials.
-
         *   Create a `.env` file in the project root:
 
         ```bash
         GOOGLE_API_KEY=your_google_api_key_here
         ```
+        * Get your API key from https://aistudio.google.com/apikey
 
 ## Running the Agent
 
