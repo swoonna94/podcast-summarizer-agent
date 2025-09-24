@@ -45,7 +45,8 @@ This agent uses a coordinator-sub-agent architecture:
         *   Create a `.env` file in the project root:
 
         ```bash
-        GOOGLE_API_KEY=your_google_api_key_here
+        GOOGLE_GENAI_USE_VERTEXAI=FALSE
+        GOOGLE_API_KEY=PASTE_YOUR_ACTUAL_API_KEY_HERE
         ```
         * Get your API key from https://aistudio.google.com/apikey
 
