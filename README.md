@@ -192,10 +192,6 @@ podcast-summarizer-agent/
   - Use Google search to find similar podcasts
   - Provide curated list of podcast recommendations with links
 
-## License
-
-MIT License - See LICENSE file for details
-
 ## Acknowledgments
 
 - Built with Google ADK (Agent Development Kit)
