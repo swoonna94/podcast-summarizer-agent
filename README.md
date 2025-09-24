@@ -36,7 +36,7 @@ This agent uses a coordinator-sub-agent architecture:
     cd podcast-summarizer-agent
     
     # Install dependencies
-    pip install google-generativeai python-dotenv
+    pip install -r requirements.txt
     ```
 
 3.  **Configuration**
